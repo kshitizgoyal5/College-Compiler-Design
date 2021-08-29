@@ -1,0 +1,10 @@
+#include<iostream>
+using namespace std;
+// THIS IS A COMMENT
+int main(){
+	char name[50];
+	int a_8 = 5++;
+	float b = 3*6.05;
+	a_8|=2;
+	cout<<"Hello world"<<a<< b;
+}

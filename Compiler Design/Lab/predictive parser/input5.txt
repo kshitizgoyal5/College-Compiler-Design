@@ -1,0 +1,9 @@
+S a B D h
+B c C
+C b C
+C epsi
+D E F
+E g
+E epsi
+F f
+F epsi
